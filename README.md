@@ -1,2 +1,2 @@
-# ARL_robot_1_model
+# ARL Robot Models
 IsaacLab asset for PR
